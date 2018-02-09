@@ -6,8 +6,8 @@
 
 2.pod update
 
-3. #import <UIDevice+UDID.h>
+3.#import <UIDevice+UDID.h>
 
-4. NSString *UDID =[UIDevice UDID];
+4.NSString *UDID =[UIDevice UDID];
 
 

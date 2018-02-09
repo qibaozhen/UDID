@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "UDID"
-  s.version      = "0.0.1"
+  s.version      = "1.0.0"
   s.summary      = "以bundleID 为key 保存uuid 到 keychain， 作为设备唯一识别码"
   s.description  = <<-DESC
         以bundleID 为key 保存uuid 到 keychain， 作为设备唯一识别码
